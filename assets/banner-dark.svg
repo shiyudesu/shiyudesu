@@ -47,6 +47,6 @@
   <text x="70" y="163" fill="#FFFFFF" font-size="76" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-weight="750" letter-spacing="-3">Hi, I'm Shiyu.</text>
   <rect x="72" y="184" width="530" height="4" rx="2" fill="url(#accent)" filter="url(#shadow)" opacity="0.65"/>
   <rect x="72" y="184" width="530" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="72" y="230" fill="#C8D7EF" font-size="23" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-weight="450" letter-spacing="0.3">Backend Systems · AI Products · Developer Infrastructure</text>
-  <text x="72" y="270" fill="#8395B5" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="1.2">BUILD  /  MEASURE  /  IMPROVE</text>
+  <text x="72" y="230" fill="#C8D7EF" font-size="23" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-weight="450" letter-spacing="0.3">Backend Development · AI Applications · Open Source</text>
+  <text x="72" y="270" fill="#8395B5" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="1.2">GO  /  PYTHON  /  TYPESCRIPT</text>
 </svg>
