@@ -1,10 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Shiyu — Backend Development and AI Applications" src="./assets/banner-light.svg" width="100%">
-</picture>
+# Hi, I'm Shiyu 👋
 
-<p align="center">
+Student at **Southeast University**, interested in backend development and AI applications.
+
+I mainly work with **Go** and **Python**, and occasionally use **TypeScript** for full-stack projects.
+
+<p>
   <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
@@ -13,11 +13,3 @@
   <a href="https://kafka.apache.org/"><img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
 </p>
-
-## About me
-
-Hi, I'm Shiyu, a student at **Southeast University**.
-
-I mainly work with **Go** and **Python**, building backend services and AI applications. I also use **TypeScript** for full-stack projects.
-
-Recently, I've been working on video platforms, AI interviews, and multi-agent systems.
