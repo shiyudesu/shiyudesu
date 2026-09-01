@@ -16,37 +16,8 @@
 
 ## About me
 
-Hi, I'm Shiyu 👋
+Hi, I'm Shiyu, a student at **Southeast University**.
 
-东南大学在读，主要使用 **Go / Python** 开发后端和 AI 应用，偶尔也会写一些 **TypeScript** 全栈项目。
+I mainly work with **Go** and **Python**, building backend services and AI applications. I also use **TypeScript** for full-stack projects.
 
-Recently, I've been working on video platforms, AI interviews, and multi-agent simulations.
-
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shiyudesu/frux">Frux</a></h3>
-      <p>A short-video platform built with Go and React, featuring video processing, content moderation, personalized feeds, and social interactions.</p>
-      <p><code>Go</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>FFmpeg</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shiyudesu/interview-guide">InterviewGuide</a></h3>
-      <p>A self-hosted AI interview app with resume analysis, text and voice mock interviews, RAG, and custom model providers.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>pgvector</code> <code>Redis Streams</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shiyudesu/wirewolf">WireWolf</a></h3>
-      <p>A multi-agent Werewolf game for experimenting with agent strategies, evaluation, reflection, and self-improvement.</p>
-      <p><code>AI Agents</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>WebSocket</code> <code>React</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shiyudesu/Vocalendar">Vocalendar</a></h3>
-      <p>A voice-first calendar that turns natural language into events and keeps them synchronized across web and mobile.</p>
-      <p><code>TypeScript</code> <code>Hono</code> <code>React</code> <code>Redis</code> <code>Capacitor</code></p>
-    </td>
-  </tr>
-</table>
+Recently, I've been working on video platforms, AI interviews, and multi-agent systems.
